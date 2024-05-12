@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <!-- TextView for EDP CODE value -->
+    <TextView
+        android:id="@+id/edpCodeTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="EDP Code"
+        android:textSize="16sp" />
+
+    <!-- TextView for COURSE NAME -->
+    <TextView
+        android:id="@+id/courseNameTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Course Name"
+        android:textSize="16sp" />
+
+    <!-- TextView for GRADE -->
+    <TextView
+        android:id="@+id/gradeTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Grade"
+        android:textSize="16sp" />
+
+</LinearLayout>

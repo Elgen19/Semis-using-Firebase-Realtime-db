@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Semifinal</string>
+    <string name="list_of_grades">List of Grades</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="course_name">Course Name</string>
+    <string name="enter_edp_code">Enter EDP Code</string>
+    <string name="edp_code">EDP Code</string>
+    <string name="enter_grade">Enter Grade</string>
+    <string name="grade">Grade</string>
+    <string name="save">Save</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="time">Time</string>
+    <string name="update">Update</string>
+    <string name="no_grades_entered_at_the_moment_please_add_one">No grades entered at the moment.\nPlease add one.</string>
+</resources>

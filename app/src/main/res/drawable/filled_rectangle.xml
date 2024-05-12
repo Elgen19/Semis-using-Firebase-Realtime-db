@@ -1,0 +1,6 @@
+<!-- res/drawable/filled_rectangle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000"/> <!-- Transparent fill -->
+    <corners android:radius="5dp"/> <!-- Corner radius -->
+    <stroke android:width="2dp" android:color="#000000"/> <!-- Black border with 2dp width -->
+</shape>

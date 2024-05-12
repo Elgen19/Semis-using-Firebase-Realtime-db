@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90616402157",
+    "project_id": "operation-semifinals",
+    "storage_bucket": "operation-semifinals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90616402157:android:072b186f28fc359ea13ce4",
+        "android_client_info": {
+          "package_name": "com.ucb.semifinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjk2tvdjB_KPb6XtFidQl3PqMrdmKVMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
